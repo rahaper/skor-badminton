@@ -1,0 +1,16 @@
+.scoreContainer{
+    font-size: 200px;
+    text-align: center;
+    box-shadow:0px 0px 0px 10px black inset;
+}
+
+.cls-vertical-mid{
+    display: flex!important;
+    justify-content: center!important ;
+    align-items: center!important;
+}
+
+.btn-adjs{
+    font-size:20px;
+    width:100%;
+}
