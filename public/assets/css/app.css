@@ -1,0 +1,15 @@
+.body-app{
+    height:100%;
+}
+
+.header{
+    padding: 5px;
+}
+
+.header .name{
+    text-align:left;
+}
+
+.header .logout{
+    text-align: right;
+}
